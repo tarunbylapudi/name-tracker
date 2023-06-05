@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/name-tracker/static/css/main.3cd83f76.css",
+    "main.js": "/name-tracker/static/js/main.616ce237.js",
+    "static/js/787.733da8a9.chunk.js": "/name-tracker/static/js/787.733da8a9.chunk.js",
+    "index.html": "/name-tracker/index.html",
+    "main.3cd83f76.css.map": "/name-tracker/static/css/main.3cd83f76.css.map",
+    "main.616ce237.js.map": "/name-tracker/static/js/main.616ce237.js.map",
+    "787.733da8a9.chunk.js.map": "/name-tracker/static/js/787.733da8a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cd83f76.css",
+    "static/js/main.616ce237.js"
+  ]
+}
